@@ -100,7 +100,7 @@
 
 TERMS & CONDITIONS (English)  
 Terms and Conditions – Lamha Game  
-Last Updated: [Insert Date]  
+Last Updated: [18/03/2026] 
 By using Lamha Game ("the Game"), you agree to these Terms.
 
 #### 1. Eligibility
