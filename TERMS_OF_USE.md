@@ -1,30 +1,33 @@
-## شروط الاستخدام — لمحة
+# شروط الاستخدام — لمحة
 
+نفس نص الشروط والأحكام المعروض داخل التطبيق.
 
-### العربية
+---
+
+## العربية
 
 أولاً: الشروط والأحكام (العربية)  
 شروط وأحكام استخدام لعبة لمحة  
-آخر تحديث: [18/03/2026]  
+آخر تحديث: 9/1/2026
 مرحبًا بك في لعبة لمحة ("لعبة لمحة"). باستخدامك للعبة فإنك توافق على الالتزام بهذه الشروط والأحكام.
 
-#### 1. القبول بالشروط
+### 1. القبول بالشروط
 
 باستخدامك اللعبة فإنك توافق على هذه الشروط. إذا كنت لا توافق، يرجى عدم استخدام اللعبة.
 
-#### 2. أهلية الاستخدام
+### 2. أهلية الاستخدام
 
 - يجب أن يكون عمرك 13 سنة على الأقل.
 - إذا كان عمرك أقل من 18 سنة، يجب الحصول على موافقة ولي الأمر.
 
-#### 3. طبيعة الخدمة
+### 3. طبيعة الخدمة
 
 - اللعبة مجانية للتنزيل والاستخدام.
-- تتطلب إتصالاً بالإنترنت.
+- تتطلب اتصالاً بالإنترنت.
 - توفر نظام لعب جماعي مباشر (Online Multiplayer).
 - تحتوي على دردشة داخلية بين اللاعبين.
 
-#### 4. المشتريات داخل التطبيق والاشتراكات
+### 4. المشتريات داخل التطبيق والاشتراكات
 
 - تحتوي اللعبة على مشتريات رقمية.
 - توفر اشتراكًا شهريًا يتم تجديده تلقائيًا.
@@ -32,7 +35,7 @@
 - لا يتم استرداد المبالغ إلا وفق سياسات المتجر المعني.
 - يمكن إلغاء الاشتراك من خلال إعدادات الحساب في المتجر.
 
-#### 5. قواعد السلوك داخل اللعبة
+### 5. قواعد السلوك داخل اللعبة
 
 يُمنع منعًا باتًا:
 
@@ -46,14 +49,16 @@
 
 - حظر أو تعليق الحساب دون إشعار مسبق في حال المخالفة.
 
-#### 6. شروط التسمية وأسماء الغرف
+### 6. شروط التسمية وأسماء الغرف
 
-- يُمنع استخدام أسماء عرض (الاسم المستعار أو اسم اللاعب) أو أسماء الغرف أو أسماء الفرق أو أي محتوى نصوصي يظهر للمستخدمين يتضمن ـ بأي صيغة أو طريقة كانت ـ كلمات مسيئة أو عنصرية أو مخلة بالأدب أو مخالفة للشريعة الإسلامية أو لأنظمة المملكة العربية السعودية.
+- يُمنع استخدام أسماء عرض (الاسم المستعار أو اسم اللاعب) أو أسماء الغرف أو أسماء الفرق أو أي محتوى نصوصي يظهر للمستخدمين يتضمن — بأي صيغة أو طريقة كانت — كلمات مسيئة أو عنصرية أو مخلة بالأدب أو مخالفة للشريعة الإسلامية أو لأنظمة المملكة العربية السعودية.
 - يشمل المنع محاولات التحايل على الفلترة (مثل تكرار الحروف أو الرموز أو الكتابة بأكثر من لغة).
 - في حال مخالفة شروط التسمية، يحق لإدارة اللعبة اتخاذ إجراءات تأديبية وفق إجراءات داخلية مرتبة وواضحة، ومنها دون حصر: إنذار، أو تعليق مؤقت للحساب، أو حظر الحساب (مؤقت أو دائم) حسب خطورة المخالفة، مع الالتزام بما لا يتعارض مع القوانين والأنظمة المعمول بها.
-- يحق للمطور ـ أو من يفوضه ـ في أي وقت حذف أي اسم أو تغيير أي اسم (اسم عرض، اسم غرفة، اسم فريق، أو غيره) يرى أنه مخالف لهذه الشروط، دون حاجة إلى إشعار مسبق في حالات المخالفة الواضحة.
+- يحق للمطور — أو من يفوضه — في أي وقت حذف أي اسم أو تغيير أي اسم (اسم عرض، اسم غرفة، اسم فريق، أو غيره) يرى أنه مخالف لهذه الشروط، دون حاجة إلى إشعار مسبق في حالات المخالفة الواضحة.
 
-#### 7. نظام الدردشة
+### 7. نظام الدردشة
+
+يُمنع:
 
 - السب أو الشتم.
 - خطاب الكراهية.
@@ -74,53 +79,55 @@
 - كتم فوري (Mute).
 - حظر دائم عند التكرار.
 
-#### 8. الملكية الفكرية
+### 8. الملكية الفكرية
 
 جميع الحقوق المتعلقة باللعبة، بما في ذلك: الاسم، التصميم، الأكواد، الرسومات، والصوتيات مملوكة للمطور ولا يجوز نسخها أو إعادة استخدامها.
 
-#### 9. إنهاء الخدمة
+### 9. إنهاء الخدمة
 
 يحق للمطور:
 
 - تعديل أو إيقاف اللعبة جزئيًا أو كليًا.
 - حذف الحسابات المخالفة.
 
-#### 10. تحديد المسؤولية
+### 10. تحديد المسؤولية
 
 يتم تقديم اللعبة "كما هي".  
 المطور غير مسؤول عن انقطاع الخدمة أو الخسائر الناتجة عن الاستخدام.
 
-#### 11. التعديلات
+### 11. التعديلات
 
 يحق للمطور تعديل هذه الشروط في أي وقت، ويُعد استمرار الاستخدام موافقة على التحديثات.
 
+للتواصل: lamhaagame@gmail.com
+
 ---
 
-### English
+## English
 
 TERMS & CONDITIONS (English)  
 Terms and Conditions – Lamha Game  
-Last Updated: [18/03/2026] 
+Last Updated: 9/1/2026  
 By using Lamha Game ("the Game"), you agree to these Terms.
 
-#### 1. Eligibility
+### 1. Eligibility
 
 You must be at least 13 years old.
 
-#### 2. Service Description
+### 2. Service Description
 
 - Free to download and play.
 - Online multiplayer.
 - Includes in-game chat.
 - Offers in-app purchases and monthly subscription.
 
-#### 3. In-App Purchases & Subscription
+### 3. In-App Purchases & Subscription
 
 - Monthly subscription auto-renews.
 - Payments are processed via App Store or Google Play.
 - Refunds are subject to store policies.
 
-#### 4. User Conduct
+### 4. User Conduct
 
 Users must not:
 
@@ -131,16 +138,17 @@ Users must not:
 
 Violation may result in suspension or permanent ban.
 
-#### 5. Naming and Display Names (Usernames, Room Names, Team Names)
+### 5. Naming and Display Names (Usernames, Room Names, Team Names)
 
 - You must not use display names (player name, username, or nickname), room names, team names, or any other user-visible text that contains—in any form or by any means—offensive, racist, obscene, or otherwise inappropriate language, or content that violates Islamic values or the laws and regulations of the Kingdom of Saudi Arabia.
 - This includes attempts to circumvent filters (e.g. repeated characters, symbols, or mixed-language spelling).
 - If you breach these naming rules, the game administration may take disciplinary measures in accordance with clear, orderly internal procedures, including but not limited to: a warning, temporary suspension of your account, or temporary or permanent ban of your account, depending on the severity of the violation, in compliance with applicable laws and regulations.
 - The developer (or their authorized representative) reserves the right at any time to delete or change any name (display name, room name, team name, or other) that they consider to be in breach of these terms, without prior notice where the violation is clear.
 
-#### 6. Chat Monitoring
+### 6. Chat Monitoring
 
-We may monitor chat for safety and compliance.  
+We may monitor chat for safety and compliance.
+
 The following behaviors are strictly prohibited within the Game, including in chat, usernames, and any user-generated content:
 
 - Profanity, insults, or abusive language.
@@ -152,11 +160,12 @@ The following behaviors are strictly prohibited within the Game, including in ch
 
 Violation of these rules may result in disciplinary action, including suspension or permanent account termination.
 
-#### 7. Intellectual Property
+### 7. Intellectual Property
 
 All game assets are owned by the developer.
 
-#### 8. Limitation of Liability
+### 8. Limitation of Liability
 
 The game is provided "as is" without warranties.
 
+Contact: lamhaagame@gmail.com
